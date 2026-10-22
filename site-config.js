@@ -2,7 +2,7 @@
 window.SITE_CONFIG = {
   names: { ar: "الدكتور محمد محمود عبده", en: "Dr Mohamed Mahmoud Abdo" },
   professionalIdentity: {
-    ar: "ماجستير الباثولوجيا الإكلينيكية | ممارسة الطب العام",
+    ar: "ماجستير الباثولوجيا الإكلينيكية (Clinical Pathology) | ممارسة الطب العام",
     en: "Master’s in Clinical Pathology | General Practitioner"
   },
   tagline: {
@@ -34,8 +34,8 @@ window.SITE_CONFIG = {
   videos: [],
   seo: {
     siteUrl: "",
-    descriptionAr: "الموقع الشخصي للدكتور محمد محمود عبده: الطب، التجارب الإنسانية، والمعرفة التي تقرّبنا من بعضنا.",
-    descriptionEn: "The personal website of Dr Mohamed Mahmoud Abdo, bringing medicine, human experience and useful knowledge together."
+    descriptionAr: "الموقع الشخصي للدكتور محمد محمود عبده، طبيب حاصل على ماجستير الباثولوجيا الإكلينيكية (Clinical Pathology).",
+    descriptionEn: "The official personal website of Dr Mohamed Mahmoud Abdo, a physician with a Master's degree in Clinical Pathology."
   },
   theme: {
     ink: "#192722", inkSoft: "#273832", paper: "#f5f1e8", white: "#fffdf8",
