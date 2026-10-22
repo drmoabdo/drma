@@ -11,8 +11,8 @@
       eyebrow:"طبيب · إنسان · مجتمع",heroLead:"الطب مهنتي،",heroEmphasis:"ومساعدة الناس رسالتي.",
       heroText:"وراء كل إنسان حكاية، ووراء كل تجربة درس. أشارك المعرفة الطبية والأفكار الإنسانية التي تساعدنا على فهم أنفسنا والحياة بصورة أعمق.",
       storyCta:"اكتشف حكايتي",contentCta:"تابع محتواي",portraitNote:"معرفة طبية، ومساحة إنسانية",identity:"خلفية مهنية",scroll:"اكتشف المزيد",
-      introKicker:"ما وراء المسمّى",introTitle:"لكل إنسان حكاية، ولكل حكاية أثر.",
-      introText:"تشكّلنا المواقف التي نمر بها، والعلاقات التي تجمعنا، والدروس التي نتعلمها مع الوقت. أؤمن أن فهم هذه التجارب يمنحنا مساحة أوسع للتعاطف، والتعلّم، ومساعدة بعضنا.",
+      introKicker:"طبيب بالمهنة، ومتعلّم بشغف، ومساعدة الناس هي رسالتي.",introTitle:"أنا محمد محمود عبده علي",
+      introText:"منذ طفولتي، كنت كثير الأسئلة. لم يكن يكفيني أن أعرف كيف تعمل الأشياء، بل كنت أريد أن أفهم لماذا تعمل بهذه الطريقة. كان لدي دائمًا فضول تجاه ما وراء الظواهر، وشعور بأن الحياة أوسع بكثير مما نراه على سطحها.\n\nلم تكن رحلتي مستقيمة دائمًا؛ عرفت التفوق، ومررت بفترات من التعثر، ثم تعلمت أن أستعيد طريقي من جديد.\n\nعندما دخلت كلية الطب، كنت أظن أن النجاح يعني أن أتفوق في دراستي فقط. لكنني توقفت يومًا لأسأل نفسي: ما قيمة أن أعرف الكثير عن الطب، بينما أجهل جوانب أخرى من الحياة أحتاج إلى فهمها؟ كان هذا السؤال نقطة تحول في طريقة تفكيري.\n\nبدأت أتعلم خارج حدود تخصصي، وأقرأ، وأتعلم الإنجليزية، وأمارس الرسم، وأستكشف مجالات جديدة. والمفاجأة أنني لم أضطر إلى الاختيار بين اتساع معرفتي وتفوقي الأكاديمي؛ فقد تخرجت في كلية الطب بامتياز مع مرتبة الشرف، وعُينت معيدًا، ثم أنهيت ماجستير الباثولوجيا الإكلينيكية.\n\nواليوم، ما زلت أؤمن بأن التعلم لا ينتهي عند شهادة، وأن التخصص في مجال لا ينبغي أن يمنعنا من فهم العالم الأوسع الذي نعيش فيه.\n\n**هنا أشارك رحلتي، وما أتعلمه، وما أؤمن به؛ لأن المعرفة تزداد قيمة عندما تتحول إلى شيء ينفع الآخرين.**\n\nأطمح إلى بناء مجتمع يجمع بين المعرفة، والتفكير، والتجارب الإنسانية، ويساعدنا على فهم أنفسنا والعالم بصورة أفضل.",
       story:"قصتي",storyTitle:"الإنسان قبل السيرة المهنية.",
       storyText:"أريد أن أشارك حكايتي كما عشتها؛ من البدايات والمؤثرات، مرورًا بمحطات التعلّم، إلى علاقتي بالطب وما تعنيه لي مساعدة الناس. هذه مساحة مفتوحة لتفاصيل سأضيفها بنفسي.",
       storyEmpty:"تُضاف تفاصيل هذه المرحلة عندما تكون جاهزة للمشاركة.",editLabel:"مساحة قابلة للتخصيص",storyPrompt:"مسارات الحكاية",
@@ -23,7 +23,7 @@
       content:"منشورات وأفكار",contentTitle:"معرفة تستحق أن تُشارك.",
       contentText:"مساحة للمقالات والمواد التعليمية والأفكار التي أعمل على مشاركتها. ستظهر هنا المواد الأصلية بعد إضافتها إلى ملف المحتوى.",
       videos:"مكتبة الفيديو",videosTitle:"مشاهدة، تعلّم، ومشاركة.",
-      videoText:"مساحة منظمة لمقاطع الفيديو بحسب الموضوع والمنصة. تُضاف الروابط والصور المصغّرة من ملف الإعدادات.",
+      videoText:"أحدث فيديوهات القناة تظهر هنا تلقائيًا من يوتيوب.",
       libraryEmpty:"ستظهر المواد هنا بعد إضافة محتوى أصلي وروابطه.",
       placeholderTitle:"مساحة لمحتواك القادم",placeholderText:"أضف عنوان المادة ووصفها ورابطها في ملف الإعدادات. لا تظهر هذه البطاقة كمحتوى منشور.",
       mediaLabel:"مساحة تحريرية",placeholderVideo:"تُضاف المقاطع عند توفر روابطها الأصلية.",
@@ -52,7 +52,7 @@
       eyebrow:"Physician · Human being · Community",heroLead:"Medicine is my profession.",heroEmphasis:"Helping people is my mission.",
       heroText:"Every person has a story, and every experience can teach us something. I share medical knowledge and human ideas that can help us understand ourselves and life more deeply.",
       storyCta:"Discover my story",contentCta:"Explore my content",portraitNote:"Medical knowledge, human perspective",identity:"Professional background",scroll:"Explore",
-      introKicker:"Beyond the title",introTitle:"Every person has a story. Every story leaves a mark.",
+      introKicker:"Physician by profession, curious by nature, helping people is my mission.",introTitle:"I’m Mohamed Mahmoud Abdo Ali",
       introText:"The moments we live through, the people we meet and the lessons we learn all shape us over time. Understanding those experiences can make more room for empathy, learning and helping one another.",
       story:"My story",storyTitle:"The person behind the profession.",
       storyText:"I want to tell my story in my own words: the influences that shaped me, the moments that taught me, my relationship with medicine and what helping people means to me. This is a space for details I will add when I am ready to share them.",
@@ -64,7 +64,7 @@
       content:"Ideas & writing",contentTitle:"Knowledge worth sharing.",
       contentText:"A home for articles, learning resources and ideas I plan to share. Original materials will appear here once they are added to the content file.",
       videos:"Video library",videosTitle:"Watch, learn, share.",
-      videoText:"A browsable collection of videos organized by topic and platform. Links and thumbnails can be added in the configuration file.",
+      videoText:"The channel’s latest videos appear here automatically from YouTube.",
       libraryEmpty:"Original materials and their links will appear here once they are added.",
       placeholderTitle:"Space for what comes next",placeholderText:"Add a title, description and link in the configuration file. This card is a placeholder, not published content.",
       mediaLabel:"Editorial space",placeholderVideo:"Videos will appear here when their original links are available.",
@@ -93,6 +93,16 @@
     return String(value == null ? "" : value).replace(/[&<>"']/g, function (char) {
       return { "&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;" }[char];
     });
+  }
+  function biographyMarkup(value) {
+    return String(value || "").split(/\r?\n/).reduce(function (html, line) {
+      var text = line.trim();
+      if (!text) return html;
+      if (text.indexOf("# ") === 0) return html + '<h3 class="biography-title">' + esc(text.slice(2)) + '</h3>';
+      if (text.indexOf("## ") === 0) return html + '<h4>' + esc(text.slice(3)) + '</h4>';
+      var safe = esc(text).replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>');
+      return html + '<p>' + safe + '</p>';
+    }, "");
   }
   function safeUrl(value, mail) {
     var text = String(value || "").trim();
@@ -143,9 +153,12 @@
       '<a class="scroll-cue" href="#introduction"><span>' + esc(t("scroll")) + '</span><i aria-hidden="true">↓</i></a></section>';
   }
   function introduction() {
+    var summary = t("introText").split(/\n\s*\n/).map(function (paragraph) {
+      return '<p>' + esc(paragraph).replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>') + '</p>';
+    }).join("");
     return '<section class="intro section-wrap" id="introduction"><div class="section-index">01 <span>—</span></div>' +
       '<div class="intro-heading"><p class="eyebrow">' + esc(t("introKicker")) + '</p><h2>' + esc(t("introTitle")) + '</h2></div>' +
-      '<div class="intro-copy"><p>' + esc(t("introText")) + '</p>' + link("#story", esc(language === "ar" ? "تعرّف إلى قصتي" : "Get to know my story")) + '</div></section>';
+      '<div class="intro-copy intro-summary">' + summary + link("#story", esc(language === "ar" ? "تعرّف على قصتي، وكن جزءًا من رحلتي." : "Get to know my story")) + '</div></section>';
   }
   function story() {
     var chapters = (config.storyChapters || []).map(function (chapter, index) {
@@ -155,6 +168,8 @@
         '</p></div><span class="chapter-edit">' + esc(text ? t("story") : t("editLabel")) + '</span></article>';
     }).join("");
     var bio = config.biography && config.biography[language];
+    if (bio) return '<section class="story section-wrap" id="story"><div class="section-heading"><p class="eyebrow">' + esc(t("story")) +
+      '</p><h2>' + esc(t("storyTitle")) + '</h2></div><article class="biography-copy" dir="rtl">' + biographyMarkup(bio) + '</article></section>';
     return '<section class="story section-wrap" id="story"><div class="section-heading"><p class="eyebrow">' + esc(t("story")) +
       '</p><h2>' + esc(t("storyTitle")) + '</h2><p>' + esc(bio || t("storyText")) + '</p></div>' +
       '<div class="story-grid"><div class="story-aside"><span class="aside-quote-mark">“</span><p>' + esc(t("storyPrompt")) +
@@ -187,6 +202,15 @@
   }
   function library(kind) {
     var video = kind === "videos";
+    if (video) {
+      var uploadsPlaylist = "UUMr3v4eEi2Lkx2JFdyCn_rQ";
+      var channelVideos = "https://www.youtube.com/@drmoabdo/videos";
+      return '<section class="library section-wrap" id="videos"><div class="library-heading"><div><p class="eyebrow">' +
+        esc(t("videos")) + '</p><h2>' + esc(t("videosTitle")) + '</h2></div><p>' + esc(t("videoText")) +
+        '</p></div><div class="youtube-embed"><iframe src="https://www.youtube-nocookie.com/embed/videoseries?list=' + uploadsPlaylist +
+        '&amp;rel=0" title="' + esc(t("videosTitle")) + ' — YouTube" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>' +
+        '<p class="library-footnote"><span class="footnote-dot"></span><a href="' + channelVideos + '" target="_blank" rel="noopener noreferrer">' + esc(t("openOriginal")) + arrow() + '</a></p></section>';
+    }
     var entries = video ? config.videos : config.content;
     var cards = (entries || []).filter(function (item) { return item && item.title; })
       .map(function (item, index) { return mediaCard(item, index, video); });
