@@ -22,8 +22,8 @@ window.SITE_CONFIG = {
     { key: "purpose", arTitle: "لماذا أساعد الناس؟", enTitle: "Why helping people matters", ar: "", en: "" }
   ],
   socialAccounts: [
-    { platform: "YouTube", url: "" }, { platform: "Instagram", url: "" },
-    { platform: "Facebook", url: "" }, { platform: "TikTok", url: "" },
+    { platform: "YouTube", url: "https://www.youtube.com/@drmoabdo" }, { platform: "Instagram", url: "https://www.instagram.com/dr.mohamed_abdo/" },
+    { platform: "Facebook", url: "https://www.facebook.com/DrMAC97/" }, { platform: "TikTok", url: "https://www.tiktok.com/@dr.m_abdo" },
     { platform: "LinkedIn", url: "" }
   ],
   contact: { email: "", whatsapp: "" },
